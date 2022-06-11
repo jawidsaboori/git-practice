@@ -1,0 +1,3 @@
+#!/bin/bash
+Hi 
+bye
